@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+ 
+body{
+    background-color: #f4efec;
+}
+ 
+h1{
+    margin-bottom: 8vh;
+    font-size: 1.8rem;
+    text-shadow: 0.1vw 0.1vw #ba6f4d;
+    text-align: center;
+    
+}
+
+.conv2{
+    margin-bottom: 4vh;
+    margin-left: 2.5vw;
+    background-color: #f5cbbf;
+    width: 30vw;
+}
+ 
+#conv{
+    width: 35vw;
+    margin-left: 32.5vw;
+    margin-top: 15vh;
+    background-color: #ddb7ac;
+    border-radius: 1vw;
+    height: 70vh;
+    text-align: center;
+}
+ 
+label{ 
+    display: block;
+    margin-bottom: 1vh;
+}
+ 
+input{
+    width: 13vw;
+    margin-bottom: 1vh;
+}
+
+input:hover{
+    background-color: #f8ebe8;
+}
